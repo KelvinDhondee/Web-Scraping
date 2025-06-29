@@ -4,7 +4,7 @@ This repository contains previous work on web scraping, primarily using **Beauti
 
 ## 📄 Project Overview
 
-### 1. **Scraping COVID-19 Data**
+### 1. **Scraping World Population by Country Data**
 **File**: `Scraping_World_Population_by_Country.ipynb`
 
 This notebook demonstrates how to scrape data from https://www.worldometers.info/world-population/population-by-country/
