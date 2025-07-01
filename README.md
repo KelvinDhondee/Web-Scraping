@@ -1,6 +1,6 @@
 # Web Scraping Projects
 
-This repository contains previous work on web scraping, primarily using **BeautifulSoup** in Python.
+This repository contains previous work on web scraping, using **BeautifulSoup** in Python.
 
 ## 📄 Project Overview
 
