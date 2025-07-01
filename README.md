@@ -27,7 +27,7 @@ This repository showcases my hands-on projects in web scraping using **Beautiful
 ### 2. ⚽ Scraping Football Player Market Values (Transfermarkt)
 
 **File:** `Scraping_TransferMarkt_Player_Values.ipynb`  
-**Goal:** Gather market valuation data for professional footballers from [TransferMarkt](https://www.transfermarkt.co.uk/spieler-statistik/wertvollstespieler/marktwertetop) 
+**Goal:** Gather market valuation data for professional footballers from (https://www.transfermarkt.co.uk/spieler-statistik/wertvollstespieler/marktwertetop) 
 **Scale:** 500+ players across 20 pages  
 
 _As a football fan, this was my favorite project._
