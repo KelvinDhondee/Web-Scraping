@@ -1,10 +1,10 @@
-# 🕸️ Web Scraping Projects
+# Web Scraping Projects
 
 This repository showcases my hands-on projects in web scraping using **BeautifulSoup** and **requests** in Python. Each notebook demonstrates best practices in ethical scraping, code structure, and robust data handling.
 
 ---
 
-## 📁 Project Overview
+## Project Overview
 
 ### 1. Scraping Quotes from [quotes.toscrape.com](http://quotes.toscrape.com)
 
@@ -24,10 +24,10 @@ This repository showcases my hands-on projects in web scraping using **Beautiful
 
 ---
 
-### 2. ⚽ Scraping Football Player Market Values (Transfermarkt)
+### 2. Scraping Football Player Market Values from [Transfermarkt – Most Valuable Players](https://www.transfermarkt.co.uk/spieler-statistik/wertvollstespieler/marktwertetop)
 
 **File:** `Scraping_TransferMarkt_Player_Values.ipynb`  
-**Goal:** Gather market valuation data for professional footballers from (https://www.transfermarkt.co.uk/spieler-statistik/wertvollstespieler/marktwertetop) 
+**Goal:** Gather market valuation data for professional footballers  
 **Scale:** 500+ players across 20 pages  
 
 _As a football fan, this was my favorite project._
@@ -42,6 +42,7 @@ _As a football fan, this was my favorite project._
 - User-agent spoofing
 - Age validation (15–45 years)
 - URL standardization
+
 
 ---
 
@@ -63,7 +64,7 @@ _As a football fan, this was my favorite project._
 
 ---
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 - `requests` – HTTP client for sending web requests  
 - `BeautifulSoup` – HTML parsing and DOM navigation  
